@@ -6,8 +6,8 @@ from sklearn.preprocessing import LabelEncoder
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.metrics import accuracy_score, confusion_matrix, classification_report, log_loss
 import requests
-import seaborn as sns
-import matplotlib.pyplot as plt
+# import seaborn as sns
+# import matplotlib.pyplot as plt
 
 # Load the data
 df = pd.read_csv('goibibo_com-travel_sample_05-06-24 - goibibo_com-travel_sample.csv.csv')
