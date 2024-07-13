@@ -28,10 +28,11 @@ link : https://vaccationone.streamlit.app/
 
 ![image](https://github.com/user-attachments/assets/c84cf027-c1f9-428b-8eb8-99fe7b4781ba)
 
-**Food Spots in that city**
+**Tourist Places to visit in that city**
 ![image](https://github.com/user-attachments/assets/98daa2e3-ffd8-4e32-b054-7f3252ee2dcd)
 
-**Tourist Places to visit in that city**
+
+**Food Spots in that city**
 ![image](https://github.com/user-attachments/assets/2c73a767-d12d-449e-bb92-8ae7f7ea39fb)
 
 **Travelling Fares**
